@@ -1,0 +1,2 @@
+September 09, 2024
+- Works fine in dev mode but css/js do not load for dist folder.
